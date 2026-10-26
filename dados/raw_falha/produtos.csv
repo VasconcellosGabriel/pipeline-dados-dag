@@ -1,0 +1,16 @@
+id_produto,nome,categoria,preco_unitario
+1,Notebook 14 polegadas,Informática,4299.00
+2,Monitor 27 polegadas,Informática,1599.00
+3,Teclado mecânico,Informática,389.90
+4,Mouse sem fio,Informática,129.90
+5,Smartphone 128 GB,Telefonia ,2499.00
+6,Fone Bluetooth,Telefonia,299.90
+7,Carregador rápido 30W,Telefonia,119.90
+8,Capa protetora,Telefonia,49.90
+9,Cafeteira elétrica,Casa,349.00
+10,Air fryer 4L,Casa ,499.00
+11,Aspirador robô,Casa,1299.00
+12,Luminária LED,Casa,89.90
+13,Cadeira de escritório,Escritório,899.00
+14,Mesa regulável,Escritório,1899.00
+15,Organizador de cabos,Escritório ,39.90

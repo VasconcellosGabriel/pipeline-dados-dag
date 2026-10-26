@@ -1,0 +1,64 @@
+id_cliente,nome,email,cidade,uf,data_cadastro
+1,Diego Silva,diego.silva1@exemplo.com,Guarapari,ES,2025-05-23
+2,Diego Almeida,diego.almeida2@exemplo.com,Vila Velha,ES,2025-02-02
+3,Ana Souza,ana.souza3@exemplo.com,Cariacica,ES,2025-01-28
+4,Tiago Santos,tiago.santos4@exemplo.com,Belo Horizonte,MG,2025-10-12
+5,Ana Oliveira,ana.oliveira5@exemplo.com,Belo Horizonte,MG,2025-06-09
+6,Gabriela Lima,gabriela.lima6@exemplo.com,Vila Velha,es,2025-04-10
+7,Marcos Lima,marcos.lima7@exemplo.com,Guarapari,ES,2026-04-16
+8,Tiago Souza,  TIAGO.SOUZA8@EXEMPLO.COM ,Belo Horizonte,mg,2025-10-28
+9,Yuri Lima,yuri.lima9@exemplo.com,Cariacica,ES,2025-02-16
+10,Heitor Pereira,  HEITOR.PEREIRA10@EXEMPLO.COM ,Vila Velha,ES,2025-04-14
+11,Natália Pereira,natalia.pereira11@exemplo.com,São Paulo,SP,2026-01-09
+12,Felipe Lima,felipe.lima12@exemplo.com,Rio de Janeiro,RJ,2025-10-01
+13,Carla Carvalho,carla.carvalho13@exemplo.com,Serra,ES,2025-09-08
+14,Felipe Ribeiro,felipe.ribeiro14@exemplo.com,Belo Horizonte,MG,2025-08-13
+15,Larissa Silva,larissa.silva15@exemplo.com,Cariacica,ES,2025-11-20
+16,Natália Pereira,natalia.pereira16@exemplo.com,Vila Velha,ES,2025-11-19
+17,Gabriela Ribeiro,gabriela.ribeiro17@exemplo.com,Belo Horizonte,MG,2026-04-15
+18,Eduarda Pereira,eduarda.pereira18@exemplo.com,Serra,ES,2025-09-27
+19,Vitória Costa,vitoria.costa19@exemplo.com,Belo Horizonte,MG,2025-05-22
+20,Sofia Ribeiro,sofia.ribeiro20@exemplo.com,Vila Velha,ES,2025-04-23
+21,Eduarda Oliveira,eduarda.oliveira21@exemplo.com,Belo Horizonte,MG,2026-01-30
+22,Natália Carvalho,natalia.carvalho22@exemplo.com,São Paulo,SP,2025-01-12
+23,Diego Almeida,diego.almeida23@exemplo.com,Guarapari,ES,2025-12-15
+24,Diego Pereira,diego.pereira24@exemplo.com,Belo Horizonte,MG,2025-01-04
+25,Isabela Almeida,isabela.almeida25@exemplo.com,Serra,ES,2025-04-19
+26,João Almeida,joao.almeida26@exemplo.com,Cariacica,ES,2025-06-15
+27,Tiago Almeida,tiago.almeida27@exemplo.com,Vitória,ES,2026-05-16
+28,Ana Souza,ana.souza28@exemplo.com,Rio de Janeiro,RJ,2025-11-11
+29,Heitor Silva,  HEITOR.SILVA29@EXEMPLO.COM ,Cariacica,ES,2025-03-22
+30,Carla Ribeiro,carla.ribeiro30@exemplo.com,Vila Velha,ES,2025-05-09
+31,Eduarda Ribeiro,eduarda.ribeiro31@exemplo.com,Serra,ES,2026-03-10
+32,Gabriela Almeida,gabriela.almeida32@exemplo.com,Cariacica,ES,2026-02-13
+33,Marcos Ribeiro,marcos.ribeiro33@exemplo.com,São Paulo,SP,2025-08-19
+34,Carla Lima,carla.lima34@exemplo.com,Vitória,ES,2025-08-24
+35,Vitória Santos,vitoria.santos35@exemplo.com,Vitória,es,2025-03-02
+36,Heitor Souza,heitor.souza36@exemplo.com,Vitória,ES,2025-03-14
+37,Sofia Santos,sofia.santos37@exemplo.com,Guarapari,ES,2025-08-08
+38,Tiago Oliveira,tiago.oliveira38@exemplo.com,São Paulo,SP,2026-04-30
+39,Otávio Santos,otavio.santos39@exemplo.com,Vila Velha,es,2026-03-18
+40,Marcos Costa,  MARCOS.COSTA40@EXEMPLO.COM ,Belo Horizonte,MG,2025-02-25
+41,Diego Silva,diego.silva41@exemplo.com,Belo Horizonte,MG,2025-04-22
+42,Heitor Santos,heitor.santos42@exemplo.com,Cariacica,ES,2025-05-24
+43,Otávio Oliveira,otavio.oliveira43@exemplo.com,Guarapari,ES,2025-03-19
+44,Paula Almeida,  PAULA.ALMEIDA44@EXEMPLO.COM ,Vila Velha,es,2025-01-16
+45,Carla Santos,carla.santos45@exemplo.com,Serra,ES,2026-05-08
+46,Gabriela Costa,gabriela.costa46@exemplo.com,Vitória,ES,2025-01-03
+47,Natália Pereira,natalia.pereira47@exemplo.com,São Paulo,SP,2026-05-14
+48,Eduarda Santos,eduarda.santos48@exemplo.com,Guarapari,ES,2025-03-01
+49,Vitória Almeida,  VITORIA.ALMEIDA49@EXEMPLO.COM ,Vitória,ES,2025-02-28
+50,Bruno Carvalho,bruno.carvalho50@exemplo.com,São Paulo,SP,2025-06-11
+51,Bruno Almeida,bruno.almeida51@exemplo.com,Vila Velha,ES,2025-03-12
+52,Yuri Souza,yuri.souza52@exemplo.com,Cariacica,ES,2025-09-10
+53,Vitória Carvalho,vitoria.carvalho53@exemplo.com,Vitória,ES,2026-03-06
+54,Vitória Carvalho,vitoria.carvalho54@exemplo.com,Rio de Janeiro,RJ,2025-07-29
+55,Larissa Santos,larissa.santos55@exemplo.com,Guarapari,ES,2025-11-04
+56,Paula Lima,paula.lima56@exemplo.com,Vila Velha,es,2025-04-13
+57,Carla Almeida,carla.almeida57@exemplo.com,Cariacica,ES,2025-05-16
+58,Marcos Souza,marcos.souza58@exemplo.com,Cariacica,ES,2025-06-11
+59,Paula Almeida,paula.almeida59@exemplo.com,Guarapari,ES,2025-01-09
+60,Tiago Pereira,tiago.pereira60@exemplo.com,Vila Velha,ES,2025-05-18
+12,Felipe Lima,felipe.lima12@exemplo.com,Rio de Janeiro ,RJ,2025-10-31
+11,Natália Pereira,natalia.pereira11@exemplo.com,São Paulo ,SP,2026-02-08
+14,Felipe Ribeiro,felipe.ribeiro14@exemplo.com,Belo Horizonte ,MG,2025-09-12
