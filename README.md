@@ -1,4 +1,6 @@
-# N1-1: Orquestrando Transformações SQL com um DAG
+# Pipeline de Dados Orquestrado por DAG
+
+> **Projeto acadêmico** (atividade N1-1 da faculdade). O notebook `N1-1-Analytics_completo.ipynb` traz a análise completa da atividade.
 
 Pipeline de dados para um **painel diário de vendas**: os dados saem dos arquivos de origem, passam por limpeza, validação e modelagem e terminam como indicadores publicados. Cada etapa é uma transformação SQL. As etapas são os **nós** de um grafo direcionado acíclico (DAG), e as dependências entre elas são as **arestas**. Um orquestrador em Python lê o grafo, garante que ele não tem ciclos, calcula a ordem de execução e roda cada etapa no SQLite.
 
